@@ -64,12 +64,12 @@ I'm a backend enthusiast passionate about building scalable web applications wit
 ### 📊 My GitHub Contributions
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=Sumit093&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Sumit093&theme=radical" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumit093&show_icons=true&theme=radical&hide_border=true" />
-<br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit093&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sumit093&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sumit093&layout=compact&theme=radical" />
 </p>
 
