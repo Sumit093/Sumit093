@@ -64,7 +64,7 @@ I'm a backend enthusiast passionate about building scalable web applications wit
 ### 📊 My GitHub Contributions
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=Sumit093&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit093&theme=radical" />
 </p>
 
 <p align="left">
