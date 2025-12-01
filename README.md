@@ -51,12 +51,12 @@ I'm a backend enthusiast passionate about building scalable web applications wit
 </p>
 
 <p align="left">
-<a href="(https://www.linkedin.com/in/sumit-haral-687855272/)">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:sumitharal093@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="(https://www.linkedin.com/in/sumit-haral-687855272/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sumitharal093@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -64,16 +64,12 @@ I'm a backend enthusiast passionate about building scalable web applications wit
 ### 📊 My GitHub Contributions
 
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit093&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Sumit093&theme=radical&hide_border=true" />
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Sumit093&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumit093&show_icons=true&theme=radical&hide_border=true" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit093&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit093&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-### ☕ Support Me
-<a href="https://www.buymeacoffee.com/Sumit093">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
-</a>
